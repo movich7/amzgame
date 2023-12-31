@@ -1,11 +1,11 @@
 irssdkIDBegin   irssdkIDLast
 irsbannerIDBegin  irsbannerIDLast
-irsinterstitialIDBeginDefaultInterstitialirsinterstitialIDLast
+irsinterstitialIDBegin  irsinterstitialIDLast
 irsrewardIDBegin   irsrewardIDLast
 
 UnityAppIdIDBegin UnityAppIdIDLast
 unitybannerIDBegin     unitybannerIDLast
-unityinterstitialIDBeginInterstitial_AndroidunityinterstitialIDLast
+unityinterstitialIDBegin  unityinterstitialIDLast
 unityrewardIDBegin  unityrewardIDLast	
 
 
@@ -15,7 +15,7 @@ FANrewardIDBegin FANrewardIDLast
 
 
 bannerIDBegin      bannerIDLast
-interstitialIDBegin interstitialIDLast
+interstitialIDBegin   interstitialIDLast
 rewardIDBegin           rewardIDlast
 
 
